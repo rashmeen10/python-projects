@@ -1,3 +1,6 @@
+//thanks to programming hero for this wonderful project 
+//used pycharm to run this program 
+
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
